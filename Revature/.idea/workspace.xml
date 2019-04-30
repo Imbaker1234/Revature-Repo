@@ -264,11 +264,11 @@
       </method>
     </configuration>
     <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iteratorDemo.IteratorDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.iteratorDemo.IteratorDemo" />
       <module name="Revature-Week 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iteratorDemo.*" />
+          <option name="PATTERN" value="com.revature.iteratorDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,11 +277,11 @@
       </method>
     </configuration>
     <configuration name="ScannerFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scan.ScannerFun" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.scan.ScannerFun" />
       <module name="Revature-Week 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scan.*" />
+          <option name="PATTERN" value="com.revature.scan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,7 +306,6 @@
       <list>
         <item itemvalue="Application.ScannerFun" />
         <item itemvalue="Application.IteratorDemo" />
-        <item itemvalue="Application.Simulator (1)" />
         <item itemvalue="Application.Driver" />
         <item itemvalue="Application.FunWithVarArgs" />
       </list>

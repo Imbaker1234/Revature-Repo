@@ -1,4 +1,4 @@
-package scan;
+package com.revature.scan;
 
 import java.util.Scanner;
 
