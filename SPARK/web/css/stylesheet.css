@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    background: darkgray;
+    font-family: Bahnschrift, sans-serif;
+    font-weight: 200;
+    font-size: 16pt;
+    color: #ededed;
+    background-image: url("dark-honeycomb.png");
+}
+
+#wrap {
+    width: 90%;
+    height: auto;
+    padding: 150px 75px 25px 75px;
+
+}
+
+.columnLeft {
+    float: left;
+    width: 50%;
+    overflow-wrap: break-word;
+}
+
+.columnRight {
+    float: right;
+    position: fixed;
+    top: 110px;
+    left: 50%;
+    width: 540px;
+    height: 600px;
+    overflow: -moz-scrollbars-vertical;
+}
+
+.columnRightFree {
+    float: right;
+    top: 110px;
+    left: 60%;
+    margin-right: 125px;
+    width: 675px;
+    height: 750px;
+}
+
+.CRIMG {
+    height= auto;
+    width= 90%;
+    border: 10px;
+    border-style: inset;
+
+}
+
+#mainmenu {
+    align-content: center;
+    margin: auto 20% 10% 10%;
+}
+
+.authordiv {
+    width: 100%;
+    height: 100%;
+    background-image: url("prism.png");
+}
+
+.authorimage {
+    float: left;
+    margin-left: 10%;
+}
+.authortext {
+    float: right;
+    margin-right: 10%;
+}
+
+    /*======================NavBar Styling===============================*/
+
+.navBar {
+    width: 95%;
+    margin: 0 auto auto auto;
+    padding-bottom: 50px;
+}
+
+header {
+    background-color: black;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.logo {
+    float: left;
+    height: 80px;
+    width: auto;
+    padding: 10px 0;
+}
+
+nav {
+    float: right;
+    margin-right: 50%;
+}
+
+nav a {
+    color: lightgrey;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: darkgray;
+}
+
+nav ul {
+    margin-bottom: 20px;
+    padding: 0;
+    list-style: none;
+    border: grey 10px;
+}
+
+/*Before you hover on navBar item*/
+nav ul li a::before {
+    content: '';
+    display: block;
+    height: 5px;
+    background-color: white;
+
+    position: absolute;
+    top: 0;
+    width: 0%;
+
+    transition: all ease-in-out 175ms;
+}
+
+nav ul li a:hover::before {
+    width: 100%;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 35px 5px 0px 0px;
+
+    position: relative;
+}
+
+nav ul li ul {
+    display: none;
+    position: absolute;
+    background-color: black;
+    padding-bottom: 7px;
+    border-radius: 0px 0px 15px 15px;
+}
+
+
+nav ul li:hover ul {
+    display: block;
+    transition: all ease-in-out 175ms;
+}
+
+nav ul li ul li {
+    width: 220px;
+    padding-bottom: 5px;
+}
+
+/*Links within dropdown menu*/
+nav ul li ul li a {
+    padding: 22px 14px;
+    font-size: 15px;
+}
+nav ul li ul li a:hover {
+    background-color: #202020;
+    padding: 10px;
+    transition: all ease-in-out 100ms
+
+}
+
+/*======End NavBar Styling===========Begin pageContent====================*/

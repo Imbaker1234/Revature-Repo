@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="doc">
+    <archive path="C:/Users/Owner/Developer/IntelliJ/Revature-SPARK/doc/package-search-index.zip" />
+    <archive path="C:/Users/Owner/Developer/IntelliJ/Revature-SPARK/doc/member-search-index.zip" />
+    <archive path="C:/Users/Owner/Developer/IntelliJ/Revature-SPARK/doc/type-search-index.zip" />
+  </library>
+</eclipse-userlibraries>
+

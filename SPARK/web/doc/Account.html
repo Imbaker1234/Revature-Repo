@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link href="../css/stylesheet.css" rel="stylesheet" type="text/css">
+	<meta charset="UTF-8">
+	<title>Account</title>
+</head>
+<body>
+<header>
+	<div class="navBar">
+
+		<img alt="logo" class="logo" src="../img/WTS%20Logo.png"/>
+
+		<nav>
+			<ul>
+				<li><a href="index.html">Main</a></li>
+				<li><a href="#">Core Functionality</a>
+					<ul>
+						<li><a href="Account.html">Account</a></li>
+						<li><a href="CheckingAccount.html">• CheckingAccount</a></li>
+						<li><a href="SavingsAccount.html">• SavingsAccount</a></li>
+						<li><a href="IAccountManager.html">IAccountManager</a></li>
+						<li><a href="CheckingAccountManager.html">CheckingAccountManager</a></li>
+						<li><a href="SavingsAccountManager.html">SavingsAccountManager</a></li>
+						<li><a href="Ledger.html">Ledger</a></li>
+						<li><a href="Reporter.html">Reporter</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Demo Functions</a>
+					<ul>
+						<li><a href="Hello.html">Hello</a></li>
+						<li><a href="ExampleAccount1.html">ExampleAccount1</a></li>
+						<li><a href="ExampleAccount2.html">ExampleAccount2</a></li>
+						<li><a href="PrintAccount.html">PrintAccount</a></li>
+						<li><a href="IMBConversions.html">IMBConversions</a></li>
+						<li><a href="CompoundCalculator.html">CompoundCalculator</a></li>
+					</ul>
+				</li>
+				<li><a href="ProjectDiagram.html">Project Diagram </a></li>
+			</ul>
+		</nav>
+
+	</div>
+</header>
+<div id="wrap">
+		<div class="columnLeft">
+
+			<!-- ======== START OF CLASS DATA ======== -->
+			<div class="ClassHeader">
+				<div class="subTitle">yourworkhere</div>
+				<h2 class="title" title="Class Account">Class Account</h2>
+			</div>
+			<ul class="inheritance">
+				<li>java.lang.Object</li>
+				<li>
+					<ul class="inheritance">
+						<li>yourworkhere.Account</li>
+					</ul>
+				</li>
+			</ul>
+			<div class="description">
+				<ul class="blockList">
+					<li class="blockList">
+						<dt>Direct Known Subclasses:</dt>
+						<dd><a href="#"
+						       title="class in yourworkhere">CheckingAccount</a>,
+							<a href="#" title="class in yourworkhere">SavingsAccount</a>
+						</dd>
+						<br>
+						<br>
+						<pre>public abstract class <span class="typeNameLabel">Account</span>
+extends java.lang.Object</pre>
+					</li>
+				</ul>
+			</div>
+			<div class="summary">
+				<ul class="blockList">
+					<li class="blockList">
+						<!-- =========== FIELD SUMMARY =========== -->
+						<ul class="blockList">
+							<li class="blockList"><a name="field.summary">
+								<!--   -->
+							</a>
+								<h3>Field Summary</h3>
+								<table border="0" cellpadding="3" cellspacing="0" class="memberSummary"
+								       summary="Field Summary table, listing fields, and an explanation">
+									<caption><span>Fields</span><span class="tabEnd">&nbsp;</span></caption>
+									<tr>
+										<th class="colFirst" scope="col">Modifier and Type</th>
+										<th class="colLast" scope="col">Field and Description</th>
+									</tr>
+									<tr class="altColor">
+										<td class="colFirst"><code>protected java.lang.String</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">accountID</a></span></code>&nbsp;
+										</td>
+									</tr>
+									<tr class="rowColor">
+										<td class="colFirst"><code>protected java.lang.String</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">accountType</a></span></code>&nbsp;
+										</td>
+									</tr>
+									<tr class="altColor">
+										<td class="colFirst"><code>protected double</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">balance</a></span></code>&nbsp;
+										</td>
+									</tr>
+									<tr class="rowColor">
+										<td class="colFirst"><code>protected java.lang.String</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">firstName</a></span></code>&nbsp;
+										</td>
+									</tr>
+									<tr class="altColor">
+										<td class="colFirst"><code>protected java.lang.String</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">lastName</a></span></code>&nbsp;
+										</td>
+									</tr>
+								</table>
+							</li>
+						</ul>
+						<!-- ======== CONSTRUCTOR SUMMARY ======== -->
+						<ul class="blockList">
+							<li class="blockList"><a name="constructor.summary">
+								<!--   -->
+							</a>
+								<h3>Constructor Summary</h3>
+								<table border="0" cellpadding="3" cellspacing="0" class="memberSummary"
+								       summary="Constructor Summary table, listing constructors, and an explanation">
+									<caption><span>Constructors</span><span class="tabEnd">&nbsp;</span></caption>
+									<tr>
+										<th class="colOne" scope="col">Constructor and Description</th>
+									</tr>
+									<tr class="altColor">
+										<td class="colOne"><code><span class="memberNameLink"><a
+												href="#">Account</a></span>()</code>&nbsp;
+										</td>
+									</tr>
+								</table>
+							</li>
+						</ul>
+						<!-- ========== METHOD SUMMARY =========== -->
+						<ul class="blockList">
+							<li class="blockList"><a name="method.summary">
+								<!--   -->
+							</a>
+								<h3>Method Summary</h3>
+								<table border="0" cellpadding="3" cellspacing="0" class="memberSummary"
+								       summary="Method Summary table, listing methods, and an explanation">
+									<tr>
+										<th class="colFirst" scope="col">Modifier and Type</th>
+										<th class="colLast" scope="col">Method and Description</th>
+									</tr>
+									<tr class="altColor" id="i0">
+										<td class="colFirst"><code>java.lang.String</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">getAccountID</a></span>()</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="rowColor" id="i1">
+										<td class="colFirst"><code>abstract <a href="#"
+										                                       title="interface in yourworkhere">IAccountManager</a></code>
+										</td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">getAccountManager</a></span>()</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="altColor" id="i2">
+										<td class="colFirst"><code>java.lang.String</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">getAccountType</a></span>()</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="rowColor" id="i3">
+										<td class="colFirst"><code>double</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">getBalance</a></span>()</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="altColor" id="i4">
+										<td class="colFirst"><code>java.lang.String</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">getFirstName</a></span>()</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="rowColor" id="i5">
+										<td class="colFirst"><code>java.lang.String</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">getLastName</a></span>()</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="altColor" id="i6">
+										<td class="colFirst"><code>void</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">setAccountID</a></span>(java.lang.String&nbsp;accountID)</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="rowColor" id="i7">
+										<td class="colFirst"><code>void</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">setAccountType</a></span>(java.lang.String&nbsp;accountType)</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="altColor" id="i8">
+										<td class="colFirst"><code>void</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">setBalance</a></span>(double&nbsp;balance)</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="rowColor" id="i9">
+										<td class="colFirst"><code>void</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">setFirstName</a></span>(java.lang.String&nbsp;firstName)</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="altColor" id="i10">
+										<td class="colFirst"><code>void</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">setLastName</a></span>(java.lang.String&nbsp;lastName)</code>&nbsp;
+										</td>
+									</tr>
+								</table>
+								<ul class="blockList">
+									<li class="blockList"><a name="methods.inherited.from.class.java.lang.Object">
+										<!--   -->
+									</a>
+										<h3>Methods inherited from class&nbsp;java.lang.Object</h3>
+										<code>clone, equals, finalize, getClass, hashCode, notify, notifyAll, toString, wait,
+											wait,
+											wait</code></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+			<div class="details">
+				<ul class="blockList">
+					<li class="blockList">
+						<!-- ============ FIELD DETAIL =========== -->
+						<ul class="blockList">
+							<li class="blockList"><a name="field.detail">
+								<!--   -->
+							</a>
+								<h3>Field Detail</h3>
+								<a name="accountID">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>accountID</h4>
+										<pre>protected&nbsp;java.lang.String accountID</pre>
+									</li>
+								</ul>
+								<a name="balance">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>balance</h4>
+										<pre>protected&nbsp;double balance</pre>
+									</li>
+								</ul>
+								<a name="accountType">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>accountType</h4>
+										<pre>protected&nbsp;java.lang.String accountType</pre>
+									</li>
+								</ul>
+								<a name="firstName">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>firstName</h4>
+										<pre>protected&nbsp;java.lang.String firstName</pre>
+									</li>
+								</ul>
+								<a name="lastName">
+									<!--   -->
+								</a>
+								<ul class="blockListLast">
+									<li class="blockList">
+										<h4>lastName</h4>
+										<pre>protected&nbsp;java.lang.String lastName</pre>
+									</li>
+								</ul>
+							</li>
+						</ul>
+						<!-- ========= CONSTRUCTOR DETAIL ======== -->
+						<ul class="blockList">
+							<li class="blockList"><a name="constructor.detail">
+								<!--   -->
+							</a>
+								<h3>Constructor Detail</h3>
+								<a name="Account--">
+									<!--   -->
+								</a>
+								<ul class="blockListLast">
+									<li class="blockList">
+										<h4>Account</h4>
+										<pre>public&nbsp;Account()</pre>
+									</li>
+								</ul>
+							</li>
+						</ul>
+						<!-- ============ METHOD DETAIL ========== -->
+						<ul class="blockList">
+							<li class="blockList"><a name="method.detail">
+								<!--   -->
+							</a>
+								<h3>Method Detail</h3>
+								<a name="getAccountManager--">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>getAccountManager</h4>
+										<pre>public abstract&nbsp;<a href="#"
+										                             title="interface in yourworkhere">IAccountManager</a>&nbsp;getAccountManager()</pre>
+									</li>
+								</ul>
+								<a name="getAccountID--">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>getAccountID</h4>
+										<pre>public&nbsp;java.lang.String&nbsp;getAccountID()</pre>
+									</li>
+								</ul>
+								<a name="setAccountID-java.lang.String-">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>setAccountID</h4>
+										<pre>public&nbsp;void&nbsp;setAccountID(java.lang.String&nbsp;accountID)</pre>
+									</li>
+								</ul>
+								<a name="getBalance--">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>getBalance</h4>
+										<pre>public&nbsp;double&nbsp;getBalance()</pre>
+									</li>
+								</ul>
+								<a name="setBalance-double-">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>setBalance</h4>
+										<pre>public&nbsp;void&nbsp;setBalance(double&nbsp;balance)</pre>
+									</li>
+								</ul>
+								<a name="getAccountType--">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>getAccountType</h4>
+										<pre>public&nbsp;java.lang.String&nbsp;getAccountType()</pre>
+									</li>
+								</ul>
+								<a name="setAccountType-java.lang.String-">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>setAccountType</h4>
+										<pre>public&nbsp;void&nbsp;setAccountType(java.lang.String&nbsp;accountType)</pre>
+									</li>
+								</ul>
+								<a name="getFirstName--">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>getFirstName</h4>
+										<pre>public&nbsp;java.lang.String&nbsp;getFirstName()</pre>
+									</li>
+								</ul>
+								<a name="setFirstName-java.lang.String-">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>setFirstName</h4>
+										<pre>public&nbsp;void&nbsp;setFirstName(java.lang.String&nbsp;firstName)</pre>
+									</li>
+								</ul>
+								<a name="getLastName--">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>getLastName</h4>
+										<pre>public&nbsp;java.lang.String&nbsp;getLastName()</pre>
+									</li>
+								</ul>
+								<a name="setLastName-java.lang.String-">
+									<!--   -->
+								</a>
+								<ul class="blockListLast">
+									<li class="blockList">
+										<h4>setLastName</h4>
+										<pre>public&nbsp;void&nbsp;setLastName(java.lang.String&nbsp;lastName)</pre>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+			<!-- ========= END OF CLASS DATA ========= -->
+
+
+		</div>
+
+		<div class="columnRight">
+			<img class="CRIMG" src="../img/Account.png"/></div>
+</div>
+</body>
+</html>

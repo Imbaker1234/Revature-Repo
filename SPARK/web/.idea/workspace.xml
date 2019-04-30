@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f41d5a0-76aa-47a4-8220-c5d794cc54e5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/ExampleAccount2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>end</find>
+      <find>navb</find>
+      <find>nav</find>
+      <find>end of</find>
+      <find>end of clas</find>
+      <find>end of class</find>
+      <find>size</find>
+      <find>pageConten</find>
+      <find>pageContent</find>
+      <find>width</find>
+      <find>a href</find>
+      <find>&lt;a href=&quot;../yourworkhere/CheckingAccount.html&quot;</find>
+      <find>&lt;a href=&quot;../yourworkhere/</find>
+      <find>&lt;/a&gt;</find>
+      <find>&lt;a href=&quot;doc/IAccountMa					                             title=&quot;</find>
+      <find>&lt;a href</find>
+      <find>href=&quot;</find>
+      <find>&lt;a href=</find>
+      <find>&lt;a href=&quot;doc</find>
+      <find>&quot;doc</find>
+      <find>&quot;../</find>
+      <find>#</find>
+      <find>instance methods</find>
+      <find>javascript</find>
+      <find>javascr</find>
+      <find>../yourworkhere/IAccountManager.html</find>
+      <find>active</find>
+      <find>wrap</find>
+      <find>href</find>
+      <find>background-im</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>001.Title-Page.html</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Project Diagram &lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;ProjectDiagram.html&quot;&gt;Project Diagram &lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>Account</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;Account.html&quot;&gt;Main&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;../css/stylesheet.css&quot;&gt;</replace>
+      <replace>&lt;img src=&quot;../img/WTS%20Logo.png&quot; alt=&quot;logo&quot; class=&quot;logo&quot;/&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;CompoundCalculator.html&quot;&gt;CompoundCalculator&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace />
+      <replace>&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Main&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>columnLeft</replace>
+      <replace>&lt;a href=&quot;doc/CheckingAccount.html&quot;</replace>
+      <replace>#</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Owner\Developer\IntelliJ\Revature-SPARK\web\doc\core functionality</dir>
+      <dir>C:\Users\Owner\Developer\IntelliJ\Revature-SPARK\web\doc\</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/doc/015.SavingsAccount.html" />
+        <option value="$PROJECT_DIR$/doc/016.CheckingAccountManager.html" />
+        <option value="$PROJECT_DIR$/doc/017.SavingsAccountManager.html" />
+        <option value="$PROJECT_DIR$/doc/018.IAccountManager.html" />
+        <option value="$PROJECT_DIR$/doc/011.Reporter.html" />
+        <option value="$PROJECT_DIR$/doc/core functionality/IAccountManager.html" />
+        <option value="$PROJECT_DIR$/doc/Demo Functionality/ExampleAccount1.html" />
+        <option value="$PROJECT_DIR$/doc/Demo Functionality/ExampleAccount2.html" />
+        <option value="$PROJECT_DIR$/doc/Demo Functionality/Hello.html" />
+        <option value="$PROJECT_DIR$/doc/Demo Functionality/IMBConversions.html" />
+        <option value="$PROJECT_DIR$/doc/Demo Functionality/PrintAccount.html" />
+        <option value="$PROJECT_DIR$/doc/core functionality/Account.html" />
+        <option value="$PROJECT_DIR$/doc/core functionality/CheckingAccount.html" />
+        <option value="$PROJECT_DIR$/doc/core functionality/CheckingAccountManager.html" />
+        <option value="$PROJECT_DIR$/doc/core functionality/Ledger.html" />
+        <option value="$PROJECT_DIR$/doc/core functionality/Reporter.html" />
+        <option value="$PROJECT_DIR$/doc/core functionality/SavingsAccount.html" />
+        <option value="$PROJECT_DIR$/doc/core functionality/SavingsAccountManager.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/Account.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/CheckingAccount.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/CheckingAccountManager.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/CompoundCalculator.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/SavingsAccount.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/IAccountManager.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/ExampleAccount.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/ExampleAccount2.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/SavingsAccountManager.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/Ledger.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/Reporter.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/Hello.html" />
+        <option value="$PROJECT_DIR$/doc/Account.html" />
+        <option value="$PROJECT_DIR$/doc/CheckingAccount.html" />
+        <option value="$PROJECT_DIR$/doc/ProjectDiagram.html" />
+        <option value="$PROJECT_DIR$/doc/CheckingAccountManager.html" />
+        <option value="$PROJECT_DIR$/doc/SavingsAccount.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/ImbConversions.html" />
+        <option value="$PROJECT_DIR$/ReferenceDoc/yourworkhere/PrintAccount.html" />
+        <option value="$PROJECT_DIR$/doc/IAccountManager.html" />
+        <option value="$PROJECT_DIR$/doc/SavingsAccountManager.html" />
+        <option value="$PROJECT_DIR$/doc/Reporter.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" />
+        <option value="$PROJECT_DIR$/doc/Ledger.html" />
+        <option value="$PROJECT_DIR$/doc/PrintAccount.html" />
+        <option value="$PROJECT_DIR$/doc/ExampleAccount1.html" />
+        <option value="$PROJECT_DIR$/doc/ExampleAccount2.html" />
+        <option value="$PROJECT_DIR$/doc/Hello.html" />
+        <option value="$PROJECT_DIR$/doc/CompoundCalculator.html" />
+        <option value="$PROJECT_DIR$/doc/IMBConversions.html" />
+        <option value="$PROJECT_DIR$/css/stylesheet.css" />
+        <option value="$PROJECT_DIR$/doc/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\Developer\IntelliJ\Revature-SPARK\web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\Developer\IntelliJ\Revature-SPARK\web\css" />
+      <recent name="C:\Users\Owner\Developer\IntelliJ\Revature-SPARK\web\doc" />
+      <recent name="C:\Users\Owner\Developer\IntelliJ\Revature-SPARK\web\doc\index" />
+      <recent name="C:\Users\Owner\Developer\IntelliJ\Revature-SPARK\web\doc\core functionality" />
+      <recent name="C:\Users\Owner\Developer\IntelliJ\Revature-SPARK\web\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f41d5a0-76aa-47a4-8220-c5d794cc54e5" name="Default Changelist" comment="" />
+      <created>1554096414071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554096414071</updated>
+      <workItem from="1554096416113" duration="2382000" />
+      <workItem from="1554145837038" duration="4835000" />
+      <workItem from="1554227969363" duration="1353000" />
+      <workItem from="1554255455873" duration="17614000" />
+      <workItem from="1554308331223" duration="10798000" />
+      <workItem from="1554324349472" duration="9581000" />
+      <workItem from="1554381719945" duration="4935000" />
+      <workItem from="1554418277109" duration="4950000" />
+      <workItem from="1554439132313" duration="13574000" />
+      <workItem from="1554754706022" duration="599000" />
+      <workItem from="1555950742836" duration="1222000" />
+      <workItem from="1555979844083" duration="640000" />
+      <workItem from="1556066288230" duration="794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73277000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27884614" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18074866" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/002.Table-of-Contents.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/022.Ledger.html" />
+    <entry file="file://$PROJECT_DIR$/doc/012.Ledger.html" />
+    <entry file="file://$PROJECT_DIR$/doc/013.Account.html" />
+    <entry file="file://$PROJECT_DIR$/doc/014.CheckingAccount.html" />
+    <entry file="file://$PROJECT_DIR$/doc/015.SavingsAccount.html" />
+    <entry file="file://$PROJECT_DIR$/doc/016.CheckingAccountManager.html" />
+    <entry file="file://$PROJECT_DIR$/doc/017.SavingsAccountManager.html" />
+    <entry file="file://$PROJECT_DIR$/doc/018.IAccountManager.html" />
+    <entry file="file://$PROJECT_DIR$/img/003.Main Functionality Diagram.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/021.Reporter.html" />
+    <entry file="file://$PROJECT_DIR$/doc/011.Reporter.html" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/Account.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/CheckingAccount.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/CheckingAccountManager.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/SavingsAccount.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/IAccountManager.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/CompoundCalculator.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/ExampleAccount.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/ExampleAccount2.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/SavingsAccountManager.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/Reporter.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/Hello.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/Ledger.html" />
+    <entry file="file://$PROJECT_DIR$/img/Account.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/dark-honeycomb.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/Account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#3179#3185#0" expanded="true" />
+            <element signature="e#3477#3483#0" expanded="true" />
+            <element signature="e#3757#3763#0" expanded="true" />
+            <element signature="e#4051#4057#0" expanded="true" />
+            <element signature="e#4343#4349#0" expanded="true" />
+            <element signature="e#4871#4877#1" expanded="true" />
+            <element signature="e#5177#5183#0" expanded="true" />
+            <element signature="e#6050#6056#0" expanded="true" />
+            <element signature="e#6408#6414#0" expanded="true" />
+            <element signature="e#6714#6720#0" expanded="true" />
+            <element signature="e#7002#7008#0" expanded="true" />
+            <element signature="e#7304#7310#0" expanded="true" />
+            <element signature="e#7604#7610#0" expanded="true" />
+            <element signature="e#7918#7924#0" expanded="true" />
+            <element signature="e#7941#7947#0" expanded="true" />
+            <element signature="e#8259#8265#0" expanded="true" />
+            <element signature="e#8284#8290#0" expanded="true" />
+            <element signature="e#8574#8580#0" expanded="true" />
+            <element signature="e#8595#8601#0" expanded="true" />
+            <element signature="e#8909#8915#0" expanded="true" />
+            <element signature="e#8932#8938#0" expanded="true" />
+            <element signature="e#12446#12452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/CheckingAccount.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#4178#4184#0" expanded="true" />
+            <element signature="e#4470#4476#0" expanded="true" />
+            <element signature="e#4764#4770#0" expanded="true" />
+            <element signature="e#4790#4796#0" expanded="true" />
+            <element signature="e#5078#5084#0" expanded="true" />
+            <element signature="e#5325#5331#0" expanded="true" />
+            <element signature="e#6441#6447#0" expanded="true" />
+            <element signature="e#7106#7112#0" expanded="true" />
+            <element signature="e#7241#7247#0" expanded="true" />
+            <element signature="e#7469#7475#0" expanded="true" />
+            <element signature="e#7494#7500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/CheckingAccountManager.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#7634#7640#0" expanded="true" />
+            <element signature="e#8326#8332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/ProjectDiagram.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/SavingsAccount.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="106" column="99" selection-start-line="106" selection-start-column="99" selection-end-line="106" selection-end-column="99" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#2770#2776#0" expanded="true" />
+            <element signature="e#5830#5836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/ImbConversions.html" />
+    <entry file="file://$PROJECT_DIR$/ReferenceDoc/yourworkhere/PrintAccount.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/IAccountManager.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="154" column="23" selection-start-line="154" selection-start-column="23" selection-end-line="154" selection-end-column="23" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/SavingsAccountManager.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="235" column="30" selection-start-line="235" selection-start-column="30" selection-end-line="235" selection-end-column="30" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#2909#2915#1" expanded="true" />
+            <element signature="e#3398#3404#0" expanded="true" />
+            <element signature="e#3419#3425#0" expanded="true" />
+            <element signature="e#4295#4301#0" expanded="true" />
+            <element signature="e#4315#4321#0" expanded="true" />
+            <element signature="e#4788#4794#0" expanded="true" />
+            <element signature="e#5095#5101#0" expanded="true" />
+            <element signature="e#5115#5121#0" expanded="true" />
+            <element signature="e#5015#5021#0" expanded="true" />
+            <element signature="e#6125#6131#0" expanded="true" />
+            <element signature="e#6299#6305#0" expanded="true" />
+            <element signature="e#6765#6771#0" expanded="true" />
+            <element signature="e#6909#6915#0" expanded="true" />
+            <element signature="e#7113#7119#0" expanded="true" />
+            <element signature="e#7143#7149#0" expanded="true" />
+            <element signature="e#7507#7513#0" expanded="true" />
+            <element signature="e#7520#7526#0" expanded="true" />
+            <element signature="e#7541#7547#0" expanded="true" />
+            <element signature="e#7734#7740#0" expanded="true" />
+            <element signature="e#7764#7770#0" expanded="true" />
+            <element signature="e#8130#8136#0" expanded="true" />
+            <element signature="e#8143#8149#0" expanded="true" />
+            <element signature="e#8163#8169#0" expanded="true" />
+            <element signature="e#8354#8360#0" expanded="true" />
+            <element signature="e#8384#8390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Top.png" />
+    <entry file="file://$PROJECT_DIR$/img/Reporter.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" />
+    <entry file="file://$PROJECT_DIR$/doc/Reporter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="137" column="40" selection-start-line="137" selection-start-column="36" selection-end-line="137" selection-end-column="40" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/IMBConversions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#2633#2639#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/Ledger.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="301" column="48" selection-start-line="301" selection-start-column="48" selection-end-line="301" selection-end-column="48" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/PrintAccount.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="177" column="21" selection-start-line="177" selection-start-column="21" selection-end-line="177" selection-end-column="21" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/CompoundCalculator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/Hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/ExampleAccount1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Example2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/ExampleAccount2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

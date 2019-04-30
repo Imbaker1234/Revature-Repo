@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link href="../css/stylesheet.css" rel="stylesheet" type="text/css">
+	<meta charset="UTF-8">
+	<title>SavingsAccount</title>
+</head>
+<body>
+<header>
+	<div class="navBar">
+
+		<img alt="logo" class="logo" src="../img/WTS%20Logo.png"/>
+
+		<nav>
+			<ul>
+				<li><a href="index.html">Main</a></li>
+				<li><a href="#">Core Functionality</a>
+					<ul>
+						<li><a href="Account.html">Account</a></li>
+						<li><a href="CheckingAccount.html">• CheckingAccount</a></li>
+						<li><a href="SavingsAccount.html">• SavingsAccount</a></li>
+						<li><a href="IAccountManager.html">IAccountManager</a></li>
+						<li><a href="CheckingAccountManager.html">CheckingAccountManager</a></li>
+						<li><a href="SavingsAccountManager.html">SavingsAccountManager</a></li>
+						<li><a href="Ledger.html">Ledger</a></li>
+						<li><a href="Reporter.html">Reporter</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Demo Functions</a>
+					<ul>
+						<li><a href="Hello.html">Hello</a></li>
+						<li><a href="ExampleAccount1.html">ExampleAccount1</a></li>
+						<li><a href="ExampleAccount2.html">ExampleAccount2</a></li>
+						<li><a href="PrintAccount.html">PrintAccount</a></li>
+						<li><a href="IMBConversions.html">IMBConversions</a></li>
+						<li><a href="CompoundCalculator.html">CompoundCalculator</a></li>
+					</ul>
+				</li>
+				<li><a href="ProjectDiagram.html">Project Diagram </a></li>
+			</ul>
+		</nav>
+
+	</div>
+</header>
+<div id="wrap">
+	<div class="columnLeft">
+
+		<div class="ClassHeader">
+			<div class="subTitle">yourworkhere</div>
+			<h2 class="title" title="Class SavingsAccount">Class SavingsAccount</h2>
+		</div>
+		<div class="contentContainer">
+			<ul class="inheritance">
+				<li>java.lang.Object</li>
+				<li>
+					<ul class="inheritance">
+						<li><a href="#" title="class in yourworkhere">yourworkhere.Account</a></li>
+						<li>
+							<ul class="inheritance">
+								<li>yourworkhere.SavingsAccount</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<div class="description">
+				<ul class="blockList">
+					<li class="blockList">
+						<hr>
+						<br>
+						<pre>public class <span class="typeNameLabel">SavingsAccount</span>
+extends <a href="#" title="class in yourworkhere">Account</a></pre>
+					</li>
+				</ul>
+			</div>
+			<div class="summary">
+				<ul class="blockList">
+					<li class="blockList">
+						<!-- =========== FIELD SUMMARY =========== -->
+						<ul class="blockList">
+							<li class="blockList"><a name="field.summary">
+								<!--   -->
+							</a>
+								<h3>Field Summary</h3>
+								<ul class="blockList">
+									<li class="blockList"><a name="fields.inherited.from.class.yourworkhere.Account">
+										<!--   -->
+									</a>
+										<h3>Fields inherited from class&nbsp;yourworkhere.<a href="#"
+										                                                     title="class in yourworkhere">Account</a>
+										</h3>
+										<code><a href="#">accountID</a>, <a
+												href="#">accountType</a>, <a
+												href=#>balance</a>, <a
+												href="#">firstName</a>, <a
+												href="#">lastName</a></code></li>
+								</ul>
+							</li>
+						</ul>
+						<!-- ========== METHOD SUMMARY =========== -->
+						<ul class="blockList">
+							<li class="blockList"><a name="method.summary">
+								<!--   -->
+							</a>
+								<h3>Method Summary</h3>
+								<table border="0" cellpadding="3" cellspacing="0" class="memberSummary"
+								       summary="Method Summary table, listing methods, and an explanation">
+									<tr>
+										<th class="colFirst" scope="col">Modifier and Type</th>
+										<th class="colLast" scope="col">Method and Description</th>
+									</tr>
+									<tr class="altColor" id="i0">
+										<td class="colFirst"><code><a href="#"
+										                              title="interface in yourworkhere">IAccountManager</a></code>
+										</td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">getAccountManager</a></span>()</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="rowColor" id="i1">
+										<td class="colFirst"><code>int</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">getCurrentMonthlyWithdrawals</a></span>()</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="altColor" id="i2">
+										<td class="colFirst"><code>int</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">getMaxMonthlyWithdrawals</a></span>()</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="rowColor" id="i3">
+										<td class="colFirst"><code>double</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">getMinBalance</a></span>()</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="altColor" id="i4">
+										<td class="colFirst"><code>void</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">setCurrentMonthlyWithdrawals</a></span>(int&nbsp;currentMonthlyWithdrawals)</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="rowColor" id="i5">
+										<td class="colFirst"><code>void</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">setMaxMonthlyWithdrawals</a></span>(int&nbsp;maxMonthlyWithdrawals)</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="altColor" id="i6">
+										<td class="colFirst"><code>void</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">setMinBalance</a></span>(double&nbsp;minBalance)</code>&nbsp;
+										</td>
+									</tr>
+									<tr class="rowColor" id="i7">
+										<td class="colFirst"><code>java.lang.String</code></td>
+										<td class="colLast"><code><span class="memberNameLink"><a
+												href="#">toString</a></span>()</code>&nbsp;
+										</td>
+									</tr>
+								</table>
+								<ul class="blockList">
+									<li class="blockList"><a name="methods.inherited.from.class.yourworkhere.Account">
+										<!--   -->
+									</a>
+										<h3>Methods inherited from class&nbsp;yourworkhere.<a href="#"
+										                                                      title="class in yourworkhere">Account</a>
+										</h3>
+										<code><a href="#">getAccountID</a>, <a
+												href="#">getAccountType</a>, <a
+												href="#">getBalance</a>, <a
+												href="#">getFirstName</a>, <a
+												href="#">getLastName</a>, <a
+												href="#">setAccountID</a>,
+											<a
+													href="#">setAccountType</a>,
+											<a href="#">setBalance</a>, <a
+													href="#">setFirstName</a>,
+											<a href="#">setLastName</a></code>
+									</li>
+								</ul>
+								<ul class="blockList">
+									<li class="blockList"><a name="methods.inherited.from.class.java.lang.Object">
+										<!--   -->
+									</a>
+										<h3>Methods inherited from class&nbsp;java.lang.Object</h3>
+										<code>clone, equals, finalize, getClass, hashCode, notify, notifyAll, wait, wait,
+											wait</code>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+			<div class="details">
+				<ul class="blockList">
+					<li class="blockList">
+						<!-- ============ METHOD DETAIL ========== -->
+						<ul class="blockList">
+							<li class="blockList"><a name="method.detail">
+								<!--   -->
+							</a>
+								<h3>Method Detail</h3>
+								<a name="getAccountManager--">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>getAccountManager</h4>
+										<pre>public&nbsp;<a href="#"
+										                    title="interface in yourworkhere">IAccountManager</a>&nbsp;getAccountManager()</pre>
+										<dl>
+											<dt><span class="overrideSpecifyLabel">Specified by:</span></dt>
+											<dd><code><a
+													href="##getAccountManager--">getAccountManager</a></code>&nbsp;in
+												class&nbsp;<code><a href="#"
+												                    title="class in yourworkhere">Account</a></code>
+											</dd>
+										</dl>
+									</li>
+								</ul>
+								<a name="getMinBalance--">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>getMinBalance</h4>
+										<pre>public&nbsp;double&nbsp;getMinBalance()</pre>
+									</li>
+								</ul>
+								<a name="setMinBalance-double-">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>setMinBalance</h4>
+										<pre>public&nbsp;void&nbsp;setMinBalance(double&nbsp;minBalance)</pre>
+									</li>
+								</ul>
+								<a name="getCurrentMonthlyWithdrawals--">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>getCurrentMonthlyWithdrawals</h4>
+										<pre>public&nbsp;int&nbsp;getCurrentMonthlyWithdrawals()</pre>
+									</li>
+								</ul>
+								<a name="setCurrentMonthlyWithdrawals-int-">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>setCurrentMonthlyWithdrawals</h4>
+										<pre>public&nbsp;void&nbsp;setCurrentMonthlyWithdrawals(int&nbsp;currentMonthlyWithdrawals)</pre>
+									</li>
+								</ul>
+								<a name="getMaxMonthlyWithdrawals--">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>getMaxMonthlyWithdrawals</h4>
+										<pre>public&nbsp;int&nbsp;getMaxMonthlyWithdrawals()</pre>
+									</li>
+								</ul>
+								<a name="setMaxMonthlyWithdrawals-int-">
+									<!--   -->
+								</a>
+								<ul class="blockList">
+									<li class="blockList">
+										<h4>setMaxMonthlyWithdrawals</h4>
+										<pre>public&nbsp;void&nbsp;setMaxMonthlyWithdrawals(int&nbsp;maxMonthlyWithdrawals)</pre>
+									</li>
+								</ul>
+								<a name="toString--">
+									<!--   -->
+								</a>
+								<ul class="blockListLast">
+									<li class="blockList">
+										<h4>toString</h4>
+										<pre>public&nbsp;java.lang.String&nbsp;toString()</pre>
+										<dl>
+											<dt><span class="overrideSpecifyLabel">Overrides:</span></dt>
+											<dd><code>toString</code>&nbsp;in class&nbsp;<code>java.lang.Object</code></dd>
+										</dl>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="columnRightFree">
+		<img class="CRIMG" src="../img/SavingsAccount.jpg"/>
+</body>
+</html>
