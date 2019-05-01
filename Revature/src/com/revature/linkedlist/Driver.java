@@ -13,5 +13,7 @@ public class Driver {
         stringList.insert("test4");
         stringList.insert("test5");
         stringList.printList();
+        System.out.println();
+        System.out.println("The head is " + stringList.peek());
     }
 }

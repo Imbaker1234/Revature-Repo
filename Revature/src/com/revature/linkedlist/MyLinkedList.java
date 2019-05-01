@@ -45,13 +45,37 @@ public class MyLinkedList<T> {
         }
     }
 
-    //Implement a Peek Method
+    //Implement a Peek Method - Return the value of the head.
+        //You don't need to include the brackets when declaring T as a return type.
+    public T peek() {
+        if (this.head != null) {
+            return head.getData();
+        }
+        return null;
+    }
 
-    //Implement a Pull Method
+    //Implement a Poll Method - Pull from the front and remove the 'head'.
 
-    //Implement a Remove Method
+    public T poll() {
+        if (this.head != null) {
+            Node<T> returnNode = this.head;
+            this.head = head.getNextNode();
+            return returnNode.getData();
+        }
+            System.out.println("NULL POINTER EXCEPTION: You have messed with the primal forces of nature" +
+                    "and now you must atone!");
+        return null;
+    }
 
-    //Implement a Remove Duplicates Method
+    //Implement a Remove Method - Traverse and remove specific data "Look for 'Test2' and remove the first
+    // instance you find of it"
+
+    public void remove() {
+        Node<T> 
+    }
+
+    //Implement a Remove Duplicates Method - Remove specific data wherever it is found until you reach the
+    //tail.
 
     //Convenience method for printing the list contents that isn't included inside the actual linked list.
     public void printList() {
