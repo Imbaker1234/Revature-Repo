@@ -5,6 +5,6 @@ public class Hobgoblin extends Goblinoid {
 
     public Hobgoblin(int hitPoints, int armorClass, int moveSpeed) {
         super(hitPoints, armorClass, moveSpeed);
-        this.setSTR(this.getSTR() + 2);
+        this.setStrength(this.getStrength() + 2);
     }
 }

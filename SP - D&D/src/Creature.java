@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -14,16 +13,22 @@ public class Creature {
     // ================FIELDS==================
 
 
-
     private int hitPoints;
     private int armorClass;
 
-    private int STR;
-    private int DEX;
-    private int CON;
-    private int WIS;
-    private int INT;
-    private int CHA;
+    private int strength;
+    private int dexterity;
+    private int constitution;
+    private int wisdom;
+    private int intelligence;
+    private int charisma;
+
+    private int strMod;
+    private int dexMod;
+    private int conMod;
+    private int wisMod;
+    private int intMod;
+    private int chaMod;
 
     private int[] position;
     private int moveSpeed;
@@ -34,18 +39,15 @@ public class Creature {
 
     // ================CONSTRUCTORS==================
 
-    public Creature() {
-    }
-
     public Creature(int hitPoints, int armorClass, int moveSpeed) {
-        this.hitPoints = 100 + (int)((Math.random() * ((10 - 1) + 1)) + 3);
+        this.hitPoints = 100 + (int) ((Math.random() * ((10 - 1) + 1)) + 3);
         this.armorClass = armorClass;
-        this.STR = (int)((Math.random() * ((18 - 3) + 1)) + 3);
-        this.DEX = (int)((Math.random() * ((18 - 3) + 1)) + 3);
-        this.CON = (int)((Math.random() * ((18 - 3) + 1)) + 3);
-        this.WIS = (int)((Math.random() * ((18 - 3) + 1)) + 3);
-        this.INT = (int)((Math.random() * ((18 - 3) + 1)) + 3);
-        this.CHA = (int)((Math.random() * ((18 - 3) + 1)) + 3);
+        this.strength = (int) ((Math.random() * ((18 - 3) + 1)) + 3);
+        this.dexterity = (int) ((Math.random() * ((18 - 3) + 1)) + 3);
+        this.constitution = (int) ((Math.random() * ((18 - 3) + 1)) + 3);
+        this.wisdom = (int) ((Math.random() * ((18 - 3) + 1)) + 3);
+        this.intelligence = (int) ((Math.random() * ((18 - 3) + 1)) + 3);
+        this.charisma = (int) ((Math.random() * ((18 - 3) + 1)) + 3);
         this.position = position;
         this.moveSpeed = moveSpeed;
     }
@@ -53,15 +55,23 @@ public class Creature {
     // ================BEHAVIORS==================
 
     public int unarmedAttack() {
-        return (int)((Math.random() * ((4 - 1) + 1)) + 1);
+        return (int) ((Math.random() * ((4 - 1) + 1)) + 1);
     }
 
     public int attackRoll() {
-        int attackRoll = (int)((Math.random() * ((20 - 1) + 1)) + 1);
-        return attackRoll + this.STR;
+        int attackRoll = (int) ((Math.random() * ((20 - 1) + 1)) + 1);
+        return attackRoll + this.strength;
     }
 
+
     public int calculateAbilityModifier(int attribute){
+        if (attribute > 10) {
+            return attribute / -2;
+        } else if(attribute < 10) {
+            return attribute / 2;
+        } else {
+            return 0;
+        }
     }
 
     // ================GETTERS AND SETTERS==================
@@ -84,52 +94,53 @@ public class Creature {
         this.armorClass = armorClass;
     }
 
-    public int getSTR() {
-        return STR;
+    public int getStrength() {
+        return strength;
     }
 
-    public void setSTR(int STR) {
-        this.STR = STR;
+    public void setStrength(int strength) {
+        this.strength = strength;
+        calculateAbilityModifier(strength);
     }
 
-    public int getDEX() {
-        return DEX;
+    public int getDexterity() {
+        return dexterity;
     }
 
-    public void setDEX(int DEX) {
-        this.DEX = DEX;
+    public void setDexterity(int dexterity) {
+        this.dexterity = dexterity;
     }
 
-    public int getCON() {
-        return CON;
+    public int getConstitution() {
+        return constitution;
     }
 
-    public void setCON(int CON) {
-        this.CON = CON;
+    public void setConstitution(int constitution) {
+        this.constitution = constitution;
     }
 
-    public int getWIS() {
-        return WIS;
+    public int getWisdom() {
+        return wisdom;
     }
 
-    public void setWIS(int WIS) {
-        this.WIS = WIS;
+    public void setWisdom(int wisdom) {
+        this.wisdom = wisdom;
     }
 
-    public int getINT() {
-        return INT;
+    public int getIntelligence() {
+        return intelligence;
     }
 
-    public void setINT(int INT) {
-        this.INT = INT;
+    public void setIntelligence(int intelligence) {
+        this.intelligence = intelligence;
     }
 
-    public int getCHA() {
-        return CHA;
+    public int getCharisma() {
+        return charisma;
     }
 
-    public void setCHA(int CHA) {
-        this.CHA = CHA;
+    public void setCharisma(int charisma) {
+        this.charisma = charisma;
     }
 
     public int[] getPosition() {

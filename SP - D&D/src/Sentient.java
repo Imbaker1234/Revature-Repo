@@ -5,6 +5,8 @@ public interface Sentient {
 
     // ================BEHAVIORS==================
 
-    public void speak(String words);
+    public default void speak(String words) {
+        System.out.println("Hello!");
+    }
 
 }
